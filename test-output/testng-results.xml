@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="59672" started-at="2023-05-25T15:52:14 IST" finished-at="2023-05-25T15:53:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="59672" started-at="2023-05-25T15:52:14 IST" finished-at="2023-05-25T15:53:14 IST">
+      <class name="testCases.Open_navigate_TestCase">
+        <test-method status="PASS" signature="start()[pri:0, instance:testCases.Open_navigate_TestCase@13c27452]" name="start" is-config="true" duration-ms="14250" started-at="2023-05-25T15:52:14 IST" finished-at="2023-05-25T15:52:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="tc003()[pri:0, instance:testCases.Open_navigate_TestCase@13c27452]" name="tc003" duration-ms="43535" started-at="2023-05-25T15:52:29 IST" finished-at="2023-05-25T15:53:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc003 -->
+        <test-method status="PASS" signature="closeUp()[pri:0, instance:testCases.Open_navigate_TestCase@13c27452]" name="closeUp" is-config="true" duration-ms="1694" started-at="2023-05-25T15:53:12 IST" finished-at="2023-05-25T15:53:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeUp -->
+      </class> <!-- testCases.Open_navigate_TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
